@@ -1,0 +1,1 @@
+This is project 3 for Alan Labouseur's Software Development 1 class.
